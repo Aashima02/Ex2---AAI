@@ -1,6 +1,6 @@
 <H5> Name :Aashima Nazreen S </H5>
 <H5>Register No.: 212221240002 </H5>
-<H5> Experiment 1 </H5>
+<H5> Experiment 2 </H5>
 <H5> DATE: 05.09.24</H5>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
 
